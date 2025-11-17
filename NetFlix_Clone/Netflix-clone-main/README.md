@@ -12,9 +12,6 @@ Might have basic interactive features powered by JavaScript (e.g., hover effects
 
 Clone the Repository: Use Git to clone this repository to your local machine.
 
-
-git clone https://github.com/rajatsinghal02/Netflix-clone.git
-
 Open the Project: Open the index.html file in your preferred web browser.
 
 **Dependencies:**
